@@ -1,0 +1,26 @@
+
+
+.container2{
+    width: 400px;
+    
+}
+.collapsible{
+    width: 100%;
+    background-color:dodgerblue;
+    color: antiquewhite;
+    cursor: pointer;
+    padding: 1%;
+    border: none;
+    font-size: 25px;
+}
+.content{
+    padding: 0 18px;
+    overflow: hidden;
+    height: 60px;
+}
+
+.active{
+    height: 160px;
+
+}
+
